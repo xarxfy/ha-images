@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.3">
   <diagram name="Seite-1" id="pUWe2E7Yy6a658wgFQKD">
-    <mxGraphModel dx="1042" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="622" dy="326" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -62,7 +62,7 @@
           <mxGeometry height="10" width="40" x="480" y="140" as="geometry" />
         </mxCell>
         <mxCell id="Fsj21QPiGxr4PULogxWP-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=9;" value="PC" vertex="1">
-          <mxGeometry height="10" width="60" x="160" y="310" as="geometry" />
+          <mxGeometry height="10" width="60" x="159" y="340" as="geometry" />
         </mxCell>
         <mxCell id="Fsj21QPiGxr4PULogxWP-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=9;" value="MacBook" vertex="1">
           <mxGeometry height="10" width="60" x="160" y="330" as="geometry" />
@@ -71,7 +71,7 @@
           <mxGeometry height="10" width="60" x="160" y="300" as="geometry" />
         </mxCell>
         <mxCell id="Fsj21QPiGxr4PULogxWP-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=9;" value="Leer" vertex="1">
-          <mxGeometry height="10" width="60" x="160" y="340" as="geometry" />
+          <mxGeometry height="10" width="60" x="160" y="310" as="geometry" />
         </mxCell>
         <mxCell id="Fsj21QPiGxr4PULogxWP-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=9;" value="Netzwerk Switch" vertex="1">
           <mxGeometry height="10" width="70" x="445" y="385" as="geometry" />
